@@ -1,0 +1,19 @@
+# Environments
+.venv/
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Nix/Direnv
+.direnv/
+result
+
+# Desktop Metadata
+.DS_Store
+Thumbs.db
