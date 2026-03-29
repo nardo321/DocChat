@@ -1,4 +1,4 @@
-# DocCha# DocCha# DocChat
+# DocChat
 
 A RAG-based tool that lets you ask questions about any PDF document in plain language.
 
