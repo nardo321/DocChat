@@ -34,4 +34,4 @@ def ingest(pdf_path):
     vector_store.reset_collection()
     vector_store.add_documents(all_splits)
 
-    print(f"Stored {len(all_splits)} chunks in chroma_db")
+    print(f"Stored {len(all_splits)} chunks in ChromaDB")
