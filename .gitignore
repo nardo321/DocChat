@@ -3,6 +3,7 @@
 venv/
 env/
 .env
+./chroma_db
 
 # Python Cache
 __pycache__/
@@ -13,6 +14,7 @@ __pycache__/
 # Nix/Direnv
 .direnv/
 result
+nix.shell
 
 # Desktop Metadata
 .DS_Store
